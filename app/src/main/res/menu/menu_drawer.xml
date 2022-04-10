@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/map_view"
+            android:title="@string/nav1"
+            android:icon="@drawable/ic_baseline_map_24"/>
+
+        <item android:id="@+id/acc_settings"
+            android:title="@string/nav2"
+            android:icon="@drawable/ic_baseline_account_circle_24"/>
+
+        <!--<item android:id="@+id/chats"
+            android:title="@string/nav3"
+            android:icon="@drawable/ic_baseline_message_24"/>-->
+
+        <item android:id="@+id/lister"
+            android:title="@string/nav4"
+            android:icon="@drawable/ic_baseline_pedal_bike_24"/>
+
+        <item android:id="@+id/renter"
+            android:title="@string/nav5"
+            android:icon="@drawable/ic_baseline_calendar_month_24"/>
+
+        <item android:id="@+id/notification"
+            android:title="@string/nav6"
+            android:icon="@drawable/ic_baseline_notifications_24"/>
+
+        <item android:id="@+id/termsofservice"
+            android:title="@string/nav8"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+
+        <item android:id="@+id/logout"
+            android:title="@string/nav9"
+            android:icon="@drawable/ic_baseline_logout_24"/>
+
+    </group>
+
+</menu>

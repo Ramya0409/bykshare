@@ -1,3 +1,48 @@
 <resources>
-    <string name="app_name">bykshare</string>
+    <string name="app_name">Byk Share</string>
+    <!--Login page-->
+    <string name="email">Email ID</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="newUser">Not a Member yet? Sign Up here.</string>
+    <string name="adminlogin">Login As An Admin</string>
+    <!--Sign up page-->
+    <string name="fullName">Full Name</string>
+    <string name="female">FEMALE</string>
+    <string name="male">MALE</string>
+    <string name="others">OTHERS</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">I accept all the Terms and Conditions.</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="already_user">Already have an Account? Login here.</string>
+    <!--Navigation drawer-->
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+    <string name="nav1">Find Bicycles</string>
+    <string name="nav2">Profile</string>
+    <string name="nav3">Chats</string>
+    <string name="nav4">Your Listed Bicycles</string>
+    <string name="nav5">Your Rented Bicycles</string>
+    <string name="nav6">Notifications</string>
+    <string name="nav8">Terms of Service</string>
+    <string name="nav9">Logout</string>
+    <!--Account page-->
+    <string name="profilepic">Change Profile Picture</string>
+    <string name="updatepro">Update Profile</string>
+    <!--Listing bikes page-->
+    <string name="listbikes">List A Bicycle</string>
+    <string name="q0">Name of Bicycle</string>
+    <string name="q1">Type of Bicycle</string>
+    <string name="q2">Rider Height (cms)</string>
+    <string name="q3">Rental Rate (USD)</string>
+    <string name="q4">Your Location</string>
+    <string name="bikeformbtn">Submit</string>
+    <string name="gobackbtn">Back</string>
+    <!--Renting bikes page-->
+    <string name="policy">You will NOT be charged until the lister accepts your request and you confirm that you want to rent this bicycle.</string>
+
 </resources>

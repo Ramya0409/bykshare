@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable-anydpi/marker.xml" value="0.143" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable-hdpi/bg_info_window.xml" value="0.143" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.197" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/appicon.xml" value="0.197" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/appicon_background.xml" value="0.197" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/bg_round.xml" value="0.143" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/button_selector.xml" value="0.1" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.132" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.132" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/ic_baseline_pedal_bike_24.xml" value="0.132" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.1465" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/ic_launcher_background.xml" value="0.197" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/round_btn.xml" value="0.1465" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/side_nav_bar.xml" value="0.143" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/drawable/text_selector.xml" value="0.1" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/account_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_add_remove_ua.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_admin_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_admin_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_app_icon.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_bike_rental_form.xml" value="0.2" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_bike_renting.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_forgot_pwd.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_login_page.xml" value="0.22" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_logo_page.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_map_page.xml" value="0.25" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_map_page2.xml" value="0.1" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_otp_verification.xml" value="0.22" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/activity_sign_up_page.xml" value="0.18" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/add_admin_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/approval_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/bike_editing_fragment.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/bike_listing_fragment.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/bike_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/chat_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/content_map_page.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/current_place_menu.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/custom_info_contents.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/fragment_maps.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/fragment_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/fragment_terms_services.xml" value="0.1109538635720351" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/list_add_del.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/list_delete.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/listed_bikes.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/listed_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/marker_info_window.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/nav_header.xml" value="0.22" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/navigation_page.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/payment_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/rental_bikes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/layout/rented_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/menu/current_place_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/menu/menu_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/ramya/AndroidStudioProjects/bykshare/app/src/main/res/mipmap-anydpi-v26/appicon.xml" value="0.197" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

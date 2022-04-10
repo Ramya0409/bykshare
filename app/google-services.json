@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800556275394",
+    "project_id": "bykshare",
+    "storage_bucket": "bykshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800556275394:android:c93c6604f06e949a020d5b",
+        "android_client_info": {
+          "package_name": "com.example.bykshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800556275394-lqmpela9vvjljsqklgscfmh0mftvdmvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-fumaF5ujldz4UhrmHofQLg77RWQtlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800556275394-lqmpela9vvjljsqklgscfmh0mftvdmvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

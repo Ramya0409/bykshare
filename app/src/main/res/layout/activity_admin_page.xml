@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:weightSum="100">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50" >
+
+    <Button
+        android:id="@+id/ar_admin"
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:background="@drawable/round_btn"
+        android:padding="15dp"
+        android:text="Add / Remove Admins"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50" >
+
+        <Button
+            android:id="@+id/ar_user"
+            android:layout_width="280dp"
+            android:layout_height="280dp"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:background="@drawable/round_btn"
+            android:padding="15dp"
+            android:text="Add / Remove Users"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>
